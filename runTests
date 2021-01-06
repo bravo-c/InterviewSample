@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# The plan here was to write some kind of loop that would automate the testing, but my bash needs some work.
+# Would have needed to know how to get all the files in the form, mostly as below.
+
+# for i in {1..5}
+# do
+#   ./spreadsheetEvaluation "../testResources/$i-in.txt" "../testResources/$i-out.txt"
+#   diff "/../testResources/$i-out.txt" "/../testResources/$i-out-expected.txt"
+# done

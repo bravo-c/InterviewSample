@@ -1,0 +1,1 @@
+// Obviously we do not expect anything out from a circular reference.
